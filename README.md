@@ -139,9 +139,10 @@ In my analysis, I utilized the Global Agro-Ecological Zones (GAEZ) model to delv
 References:
 Mueller, N.D., Gerber, J.S., Johnston, M., Ray, D.K., Ramankutty, N., & Foley, J.A. (2012). Closing yield gaps through nutrient and water management. Nature, 490, 254-257.
 
-![Africa Yield Gap Analysis](Africa_YG_Fraction.png)
-![Africa LGP and Population](Africa_LGP_Pop.png)
-![Africa Food Insecurity](Africa_Food_Insecurity.png)
+
+| Africa Yield Gap Analysis |Africa LGP and Population | Africa Food Insecurity |
+|:-----------------------:|:----------------------------:|:----------------------:|
+| ![Africa Yield Gap Analysis](Africa_YG_Fraction.png)| ![Africa LGP and Population](Africa_LGP_Pop.png) | ![Africa Food Insecurity](Africa_Food_Insecurity.png) |
 
 
 ## <a id="dutch-agriculture"></a>Evaluating the Impact of Drought and Temperature Increase on Dutch Agriculture
