@@ -125,11 +125,11 @@ The maps featured in this section were meticulously crafted as part of Esri's re
 
 ## <a id="WorldShippingin1770"></a>World Shipping in 1770 - Go Ahead, Click on the Image to View the Animation
 
-[![World Shipping in 1770](World%20Shipping.png)](https://www.dropbox.com/scl/fi/rf91xqbywqcrgo8awc483/ShippingIn1770_HDTV.mp4?rlkey=h9v9ztu1x49hcusob2x3mx07n&st=l48wsjbb&dl=0)
+![World Shipping in 1770](World%20Shipping.png)(https://www.dropbox.com/scl/fi/rf91xqbywqcrgo8awc483/ShippingIn1770_HDTV.mp4?rlkey=h9v9ztu1x49hcusob2x3mx07n&st=l48wsjbb&dl=0)
 
 ## <a id="SteelHead"></a>SteelHead Haven Mudslide Event - Go Ahead, Click on the Image to View the Video
 
-[![SteelHead Haven Mudslide Event](SteelHead.png)](https://www.dropbox.com/scl/fi/ub9nmeb446gg5scxn2938/Mudslide.avi?rlkey=9systk5lq5dl3w0vtxb7w4nxn&st=ul26btzk&dl=0)
+![SteelHead Haven Mudslide Event](SteelHead.png)(https://www.dropbox.com/scl/fi/ub9nmeb446gg5scxn2938/Mudslide.avi?rlkey=9systk5lq5dl3w0vtxb7w4nxn&st=ul26btzk&dl=0)
 
 
 
