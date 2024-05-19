@@ -22,6 +22,7 @@ My career has spanned multiple impactful projects that leveraged the power of GI
   - [Hurricanes](#hurricanes)
   - [Massachusetts](#massachusetts)
   - [World Shipping in 1770](#world-shipping-in-1770)
+  - [Race from Spain to Puerto Rico](#Spain)
   - [SteelHead Haven Mudslide Event](#steelhead-haven-mudslide-event)
 - [Fantasy Cartography](#Fantasy-Cartography)
 - **[Academic Projects](#academic-projects)**
@@ -126,6 +127,10 @@ The maps featured in this section were meticulously crafted as part of Esri's re
 ## <a id="world-shipping-in-1770"></a>World Shipping in 1770 - Go Ahead, Click on the Image to View the Animation
 
 [![World Shipping in 1770](World%20Shipping.png)](https://www.dropbox.com/scl/fi/rf91xqbywqcrgo8awc483/ShippingIn1770_HDTV.mp4?rlkey=h9v9ztu1x49hcusob2x3mx07n&st=l48wsjbb&dl=0)
+
+## <a id="Spain"></a>Race from Spain to Puerto Rico - Go Ahead, Click on the Image to View the Video
+
+[![Race from Spain to Puerto Rico, 1770](SpainRace.png)](https://www.dropbox.com/scl/fi/0fvsbg25h102icp0gxnvf/ShipRace.avi?rlkey=c3bbuil9nly9sh1ioewnj3gdf&st=hjdgt56p&dl=0)
 
 ## <a id="steelhead-haven-mudslide-event"></a>SteelHead Haven Mudslide Event - Go Ahead, Click on the Image to View the Video
 
