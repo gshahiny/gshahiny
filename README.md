@@ -15,14 +15,14 @@ My career has spanned multiple impactful projects that leveraged the power of GI
 
 ## ⚙️ Project Experience
 
-- **[Vineyard Registry System](#vineyard-registry):** QGIS, ArcGIS Pro, Enterprise
-- **[Waste Management Optimization](#waste-management):** ArcGIS, Network Analyst, PPGIS, Survey123 Connect
-- **[Google Earth Engine Training Program](#google-earth-training):** Google Earth Engine, JavaScript
-- **[Creative Cartography](#creative-cartography):** 
+- **[Vineyard Registry System](#vineyard-registry)** =
+- **[Waste Management Optimization](#waste-management)**
+- **[Google Earth Engine Training Program](#google-earth-training)** 
+- **[Creative Cartography](#creative-cartography)** 
   - [Hurricanes](#hurricanes)
   - [Massachusetts](#massachusetts)
   - [Fantasy Cartography-Yerevan City Map in Lord of the Rings Style](#Fantasy-Cartography)
-- **[Academic Projects](#academic-projects):**
+- **[Academic Projects](#academic-projects)**
   - [Analysis of Arctic Ice Extent and Implications for Global Shipping Routes](#arctic-ice)
   - [GIS and Remote Sensing Analysis of Food Security in Africa](#food-security-africa)
   - [Evaluating the Impact of Drought and Temperature Increase on Dutch Agriculture](#dutch-agriculture)
@@ -99,7 +99,7 @@ The Normalized Difference Vegetation Index (NDVI) is a powerful tool for assessi
 The comprehensive Vineyard Registry now catalogues over 20,367 parcels across 223 communities, serving as an indispensable tool for the viticulture sector's monitoring and quality assurance. My leadership in this initiative underscores a deep-seated commitment to enhancing agricultural data management, fostering operational excellence, and enabling economic growth in the viticulture domain.
 
 # <a id="waste-management"></a>Waste Management Optimization (ArcGIS, Network Analyst, PPGIS, Survey123 Connect)
-Implemented location-allocation analysis and Public Participation GIS to optimize the placement of solid waste bins in urban areas. This project involved advanced GIS applications for urban planning, demonstrating significant improvements in waste management efficiency. [Waste Management Optimization](https://github.com/gshahiny/VineyardRegistry/blob/main/README.md)
+Implemented location-allocation analysis and Public Participation GIS to optimize the placement of solid waste bins in urban areas. This project involved advanced GIS applications for urban planning, demonstrating significant improvements in waste management efficiency. 
 
 # <a id="google-earth-training"></a>Google Earth Engine Training Program (Google Earth Engine, JavaScript)
 
