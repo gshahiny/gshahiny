@@ -23,7 +23,7 @@ My career has spanned multiple impactful projects that leveraged the power of GI
   - [Massachusetts](#massachusetts)
   - [World Shipping in 1770](#world-shipping-in-1770)
   - [SteelHead Haven Mudslide Event](#steelhead-haven-mudslide-event)
-  - [Fantasy Cartography-Yerevan City Map in Lord of the Rings Style](#FantasyCartography)
+- [Fantasy Cartography-Yerevan City Map in Lord of the Rings Style](#FantasyCartography)
 - **[Academic Projects](#academic-projects)**
   - [Analysis of Arctic Ice Extent and Implications for Global Shipping Routes](#arctic-ice)
   - [GIS and Remote Sensing Analysis of Food Security in Africa](#food-security-africa)
