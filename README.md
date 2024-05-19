@@ -132,8 +132,6 @@ The maps featured in this section were meticulously crafted as part of Esri's re
 [![SteelHead Haven Mudslide Event](SteelHead.png)](https://www.dropbox.com/scl/fi/ub9nmeb446gg5scxn2938/Mudslide.avi?rlkey=9systk5lq5dl3w0vtxb7w4nxn&st=ul26btzk&dl=0)
 
 
-
-
 ## <a id="FantasyCartography"></a>Fantasy Cartography - Yerevan City Map in Lord of the Rings Style
 
 This unique map of Yerevan City, styled after the iconic maps of Middle-earth from J.R.R. Tolkien's "The Lord of the Rings," showcases my creative flair and versatility with cartographic design. Crafted as a whimsical gift and for entertainment, it fuses the historic essence of Yerevan with the fantasy aesthetic of Tolkien's universe. I employed styles developed by John Nelson (JohnMNelson_esristyles), available here, with ArcGIS Pro to transform the vibrant cityscape of Yerevan into a piece of fantasy art.
