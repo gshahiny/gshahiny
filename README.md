@@ -88,6 +88,7 @@ I developed a detailed guide to enhance data accuracy, covering aspects from ort
 The delineated orthophoto vineyard parcels were systematically overlaid with cadaster parcels to aggregate comprehensive information about each farmer, spanning approximately 80,000 cadaster units. This overlay process underwent a thorough quality assurance review, leading to the creation of a final dataset enriched with all necessary alphanumeric and graphical details. This dataset served as the foundation for a Survey123 survey aimed at gathering farmer information. Post-survey, I undertook the extensive task of data cleaning and preparation, optimizing the information for integration into the vineyard registry. This exhaustive effort underscored my commitment to creating a reliable and valuable resource for the viticulture sector.
 
 ![Issues in Data Integration](Issues.png)
+The image exhibits graphical issues such as overlapping and gaps between parcel boundaries, caused by overlaying cadastral data onto which the survey was conducted. 
 
 ### Vineyard Insights: Advancing Viticulture with Remote Sensing Technologies
 
