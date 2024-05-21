@@ -143,6 +143,8 @@ Go Ahead, Click on the Image to View the Video
 
 [![SteelHead Haven Mudslide Event](SteelHead.png)](https://www.dropbox.com/scl/fi/ub9nmeb446gg5scxn2938/Mudslide.avi?rlkey=9systk5lq5dl3w0vtxb7w4nxn&st=ul26btzk&dl=0)
 
+### <a id="CartoMooc"></a>Cartography Mooc Certificate 
+![Cartography MOOC Certificate](CartoMooc_Certificate.png)
 
 ## <a id="Fantasy-Cartography"></a>Fantasy Cartography
 
