@@ -122,8 +122,9 @@ The maps featured in this section were meticulously crafted as part of Esri's re
 
 
 ## <a id="searise"></a>Sea Level Rise in Miami, FL
-
-![Sea Level Rise in Miami, FL](Miami_SeaRise.png)
+<p align="center">
+  <img src="Miami_SeaRise.png" alt="Sea Level Rise in Miami, FL">
+</p>
 
 ## <a id="solar"></a>Solar Radiation and Energy Potential 2024
 
