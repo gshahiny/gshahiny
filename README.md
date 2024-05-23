@@ -118,7 +118,7 @@ Led the development of seven e-learning modules and a comprehensive web platform
 
 # <a id="creative-cartography"></a>Creative Cartography
 
-The maps featured in this section were meticulously crafted as part of Esri's renowned **Cartography** MOOC. Through this educational and entertaining experience, I deepened my understanding of aesthetic and functional elements of map design, applying these principles to create visually compelling and informative maps. Showcased here, these maps not only demonstrate my technical proficiency but also my ongoing commitment to expanding my cartographic skills and knowledge.
+The maps featured in this section were meticulously crafted as part of Esri's renowned **Cartography** and **GIS for Climate Action** MOOCs. Through this educational and entertaining experience, I deepened my understanding of aesthetic and functional elements of map design, applying these principles to create visually compelling and informative maps. Showcased here, these maps not only demonstrate my technical proficiency but also my ongoing commitment to expanding my cartographic skills and knowledge.
 
 
 ## <a id="searise"></a>Sea Level Rise in Miami, FL
