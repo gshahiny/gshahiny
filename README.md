@@ -20,6 +20,7 @@ My career has spanned multiple impactful projects that leveraged the power of GI
 - **[Google Earth Engine Training Program](#google-earth-training)** 
 - **[Creative Cartography](#creative-cartography)** 
   - [Hurricanes](#hurricanes)
+  - [Earthquakes Since 1898](#earthquakes)
   - [Massachusetts](#massachusetts)
   - [World Shipping in 1770](#world-shipping-in-1770)
   - [Race from Spain to Puerto Rico](#Spain)
@@ -120,6 +121,10 @@ The maps featured in this section were meticulously crafted as part of Esri's re
 ## <a id="hurricanes"></a>Hurricanes
 
 ![Hurricanes](Hurricanes.jpg)
+
+## <a id="earthquakes"></a>Earthquakes Since 1898
+
+![Earthquakes](Earthquakes.jpg)
 
 ## <a id="massachusetts"></a>Massachusetts
 
