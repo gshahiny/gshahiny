@@ -18,7 +18,9 @@ My career has spanned multiple impactful projects that leveraged the power of GI
 - **[Vineyard Registry System](#vineyard-registry)** 
 - **[Waste Management Optimization](#waste-management)**
 - **[Google Earth Engine Training Program](#google-earth-training)** 
-- **[Creative Cartography](#creative-cartography)** 
+- **[Creative Cartography](#creative-cartography)**
+-   [Solar Radiation and Energy Potential 2024](#solar)
+-   [Sea Level Rise in Miami, FL](#searise)
   - [Hurricanes](#hurricanes)
   - [Earthquakes Since 1898](#earthquakes)
   - [Massachusetts](#massachusetts)
@@ -117,6 +119,15 @@ Led the development of seven e-learning modules and a comprehensive web platform
 # <a id="creative-cartography"></a>Creative Cartography
 
 The maps featured in this section were meticulously crafted as part of Esri's renowned **Cartography** MOOC. Through this educational and entertaining experience, I deepened my understanding of aesthetic and functional elements of map design, applying these principles to create visually compelling and informative maps. Showcased here, these maps not only demonstrate my technical proficiency but also my ongoing commitment to expanding my cartographic skills and knowledge.
+
+
+## <a id="searise"></a>Sea Level Rise in Miami, FL
+
+![Sea Level Rise in Miami, FL](Miami_SeaRise.png)
+
+## <a id="solar"></a>Solar Radiation and Energy Potential 2024
+
+![Solar Radiation and Energy Potential 2024](SolarEnergy.jpg)
 
 ## <a id="hurricanes"></a>Hurricanes
 
