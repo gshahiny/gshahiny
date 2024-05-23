@@ -19,8 +19,8 @@ My career has spanned multiple impactful projects that leveraged the power of GI
 - **[Waste Management Optimization](#waste-management)**
 - **[Google Earth Engine Training Program](#google-earth-training)** 
 - **[Creative Cartography](#creative-cartography)**
--   [Solar Radiation and Energy Potential 2024](#solar)
--   [Sea Level Rise in Miami, FL](#searise)
+  - [Solar Radiation and Energy Potential 2024](#solar)
+  - [Sea Level Rise in Miami, FL](#searise)
   - [Hurricanes](#hurricanes)
   - [Earthquakes Since 1898](#earthquakes)
   - [Massachusetts](#massachusetts)
